@@ -4,17 +4,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on python project
+- 🔭 I’m currently working on C++ project
 
-- 🌱 I’m currently learning **Python Core.**
+- 🌱 I’m currently learning **Java Core.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at ****
 
-- 📫 How to reach me **mayankrajsinh2842gmail.com**
+- 📫 How to reach me **mayankrajsinh2842@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games very often.**
 
 ## 🚀 Languages 
 
@@ -30,6 +30,7 @@
 <p align="left">
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/pycharm.png"/> </a>
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 </p>    
 <br/>
 
